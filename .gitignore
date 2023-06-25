@@ -1,0 +1,12 @@
+__pycache__/
+.vscode/
+.idea/
+.fleet/
+news/__pycache__/
+news/.vscode/
+news/.idea/
+news/.fleet/
+api/__pycache__/
+api/.vscode/
+api/.idea/
+api/.fleet/
